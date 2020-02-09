@@ -80,5 +80,5 @@ limiting type of an event with only one member."*
   - Drops of primitive society
   - Drops of feudal or agrarian society
   - Drops of capitalism and privatisation (industrial societies, disciplinary societies)
-  - Drops of economic, military, climatic and biodiversity crises (and societies of control)
+  - Drops of economic, military, climatic and biodiversity crises (information societies, societies of control)
   - Drops of sustainable human society and universal approach to social development (DROPS)
