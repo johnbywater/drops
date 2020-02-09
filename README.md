@@ -16,6 +16,11 @@ limiting type of an event with only one member."*
   - Actual occasions, the actual entities of which the actual world is built up (one subjective aim, two poles, four stages, many feelings, one settlement)
   - Facts of relatedness, or prehensions (feelings, of feelings already felt)
   - Nexus of actual occasions, or public matters of fact (events)
+    - Social nexus
+      - Social order
+      - Personal order
+      - Corpuscular society
+    - Non-social nexus (chaos)
   - Subjective forms, or private matters of fact
   - Eternal objects, pure potentials for the specific determination of fact (forms of definiteness)
   - Propositions, matters of fact in potential determination, impure potentials for the specific determination of fact (theory)
