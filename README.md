@@ -1,7 +1,14 @@
 # DROPS
 DROPS is an approach to development built up of actual occasions.
 
-Inspired by the turn to eventing in software development, and encouraged both by the modern, event-oriented, process metaphysics of Alfred North Whitehead and by Christopher Alexander's pattern language technique for describing patterns of events (exampled brilliantly in Ward Cunningham's EPISODES) the DROPS approach is a post-agile approach to development (of software and other things) which avoids the ancient substance-quality categories that "agile" invokes, and attends instead to the creative becoming of fully determined actual occasions of experience in the society of events we call our world.
+Inspired by the turn to eventing in software development, and encouraged both by the modern, event-oriented, process metaphysics of Alfred North Whitehead and by Christopher Alexander's pattern language technique for describing patterns of events, exampled brilliantly in Ward Cunningham's EPISODES, the DROPS approach is a post-agile approach to development (of software and other things) which avoids the ancient substance-quality categories that "agile X" and OOAD tend to evoke, and attends instead to the creative becoming of fully determined actual occasions of experience (the actual entities) in the society of events we call our world.
+
+In 1929 Whitehead wrote, *"'Actual entities' — also termed 'actual occasions' — are the final real things of which the world is made up. There is no going behind actual entities to find anything more real. They differ among themselves... But, though there are gradations of importance, and diversities of function, yet in the principles which actuality exemplifies, all are on the same level. The final facts are, all alike, actual entities; and these actual entities are drops of experience, complex and interdependent."*
+
+*"Thus the actual world is built up of actual occasions; and by the ontological principle whatever things there are in any sense of 'existence' are derived by abstraction from actual occasions. I shall use the term 'event' in the more general sense of a nexus of actual occasions, inter-related in some determinate fashion in one extensive quantum. An actual occasion is the 
+limiting type of an event with only one member."*
+
+*"It is sufficient to say that a molecule in the sense of a moving body, with a history of local change, is not an actual occasion; it must therefore be some kind of nexus of actual occasions. In this sense it is an event, but not an actual occasion. The fundamental meaning of the notion of 'change' is 'the difference between actual occasions comprised in some determinate event.'"*
 
 ## Plan
 
@@ -14,7 +21,7 @@ Inspired by the turn to eventing in software development, and encouraged both by
   - Propositions, matters of fact in potential determination, impure potentials for the specific determination of fact (theory)
   - Multiplicities (pure disjunctions of diverse entities)
   - Contrasts, or modes of synthesis of entities in one prehension (patterned entities)
-  
+
 - Drops of human activity
   - Drops of describing
   - Drops of reading
