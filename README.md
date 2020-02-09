@@ -1,13 +1,13 @@
 # DROPS
 DROPS is an approach to development built up of actual occasions.
 
-Inspired by the turn to eventing in software development, and encouraged by the process metaphysics of Alfred North Whitehead, the approach to describing patterns of events called pattern language and Ward Cunningham's EPISODES, the DROPS approach is a post-agile approach to development (of software and other things) which avoids the substance-quality categories that "agile" invokes, and attends instead to the creative becoming of fully determined actual occasions of experience in the society of events we call our world.
+Inspired by the turn to eventing in software development, and encouraged both by the modern, event-oriented, process metaphysics of Alfred North Whitehead and by Christopher Alexander's pattern language technique for describing patterns of events (exampled brilliantly in Ward Cunningham's EPISODES) the DROPS approach is a post-agile approach to development (of software and other things) which avoids the ancient substance-quality categories that "agile" invokes, and attends instead to the creative becoming of fully determined actual occasions of experience in the society of events we call our world.
 
 ## Plan
 
 - Drops of experience: the concept of actual occasions of experience
-  - Actual occasions, the actual entities of which the actual world is built up
-  - Facts of relatedness, or prehensions, or feelings
+  - Actual occasions, the actual entities of which the actual world is built up (one subjective aim, two poles, four stages, many feelings, one settlement)
+  - Facts of relatedness, or prehensions (feelings, of feelings already felt)
   - Nexus of actual occasions, or public matters of fact (events)
   - Subjective forms, or private matters of fact
   - Eternal objects, pure potentials for the specific determination of fact (forms of definiteness)
