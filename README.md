@@ -66,6 +66,7 @@ Inspired by the turn to eventing in software development, and encouraged by the 
   - Drops of philosophy
   - Drops of technology
   - Drops of abuse (power, corruption and lies)
+  - Drops of development
   
 - Drops of historical development  
   - Drops of biological evolution
@@ -73,4 +74,4 @@ Inspired by the turn to eventing in software development, and encouraged by the 
   - Drops of feudal or agrarian society
   - Drops of capitalism, privatisation, and employment
   - Drops of economic, climate and biodiversity crisis
-  - Drops of open society and universal approach to social development
+  - Drops of sustainable human society and universal approach to social development
