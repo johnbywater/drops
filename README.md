@@ -30,8 +30,8 @@ Inspired by the turn to eventing in software development, and encouraged by the 
   - Drops of coaching
   - Drops of assessment or examination
   - Drops of taking care of oneself
-  - Drops of taking care of others, being together (meetings)
-  - Drops of groups and associations
+  - Drops of helping and taking care of others, sharing, being together (meetings, conferences, movements)
+  - Drops of groups and associations (relationships, families, clubs, organisations)
   
 - Drops of software development
   - Drops of discovering
@@ -72,6 +72,6 @@ Inspired by the turn to eventing in software development, and encouraged by the 
   - Drops of biological evolution
   - Drops of primitive society
   - Drops of feudal or agrarian society
-  - Drops of capitalism, privatisation, and employment
-  - Drops of economic, climate and biodiversity crisis
-  - Drops of sustainable human society and universal approach to social development
+  - Drops of capitalism and privatisation (industrial societies, disciplinary societies)
+  - Drops of economic, military, climatic and biodiversity crises (with societies of control)
+  - Drops of sustainable human society and universal approach to social development (e.g. DROPS)
