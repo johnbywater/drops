@@ -39,6 +39,7 @@ limiting type of an event with only one member."*
   - Drops of taking care of oneself
   - Drops of helping and taking care of others, sharing, being together (meetings, conferences, movements)
   - Drops of groups and associations (relationships, families, clubs, organisations)
+  - Drops of resting and sleep
   
 - Drops of software development
   - Drops of discovering
@@ -81,4 +82,4 @@ limiting type of an event with only one member."*
   - Drops of feudal or agrarian society
   - Drops of capitalism and privatisation (industrial societies, disciplinary societies)
   - Drops of economic, military, climatic and biodiversity crises (information societies, societies of control)
-  - Drops of sustainable human society and universal approach to social development (DROPS)
+  - Drops of sustainable human society and universal approaches to social development (DROPS)
