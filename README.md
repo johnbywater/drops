@@ -17,9 +17,9 @@ limiting type of an event with only one member."*
   - Facts of relatedness, or prehensions (feelings, of feelings already felt)
   - Nexus of actual occasions, or public matters of fact (events)
     - Social nexus
-      - Social order
-      - Personal order
-      - Corpuscular society
+      - Social order (fact of togetherness)
+      - Personal order (occasions ordered serially)
+      - Corpuscular society (strands of personal order)
     - Non-social nexus (chaos)
   - Subjective forms, or private matters of fact
   - Eternal objects, pure potentials for the specific determination of fact (forms of definiteness)
