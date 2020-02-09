@@ -1,7 +1,7 @@
 # DROPS💦
-DROPS💦 is an approach to development built up of actual occasions.
+DROPS is an approach to development built up of actual occasions.
 
-Inspired by the turn to eventing in software development, and encouraged both by the modern, event-oriented, process metaphysics of Alfred North Whitehead and by Christopher Alexander's pattern language technique for describing patterns of events, exampled brilliantly in Ward Cunningham's EPISODES, the DROPS💦 approach is a post-agile approach to development (of software and other things) which avoids the ancient substance-quality categories that "agile X" and OOAD tend to evoke, and attends instead to the creative becoming of fully determined actual occasions of experience (the actual entities) in the society of events we call our world.
+Inspired by the turn to eventing in software development, and encouraged both by the modern, event-oriented, process metaphysics of Alfred North Whitehead and by Christopher Alexander's pattern language technique for describing patterns of events, exampled brilliantly in Ward Cunningham's EPISODES, the DROPS approach is a post-agile approach to development (of software and other things) which avoids the ancient substance-quality categories that "agile X" and OOAD tend to evoke, and attends instead to the creative becoming of fully determined actual occasions of experience (the actual entities) in the society of events we call our world.
 
 In 1929 Whitehead wrote, *"'Actual entities' — also termed 'actual occasions' — are the final real things of which the world is made up. There is no going behind actual entities to find anything more real. They differ among themselves... But, though there are gradations of importance, and diversities of function, yet in the principles which actuality exemplifies, all are on the same level. The final facts are, all alike, actual entities; and these actual entities are drops of experience, complex and interdependent."*
 
@@ -81,4 +81,4 @@ limiting type of an event with only one member."*
   - Drops of feudal or agrarian society
   - Drops of capitalism and privatisation (industrial societies, disciplinary societies)
   - Drops of economic, military, climatic and biodiversity crises (information societies, societies of control)
-  - Drops of sustainable human society and universal approach to social development (DROPS💦)
+  - Drops of sustainable human society and universal approach to social development (DROPS)
