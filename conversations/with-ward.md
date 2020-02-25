@@ -72,6 +72,43 @@ I am continuing to dig deeper into this moment: an interruption where one sits i
 
 More thoughts here: http://wellspring.fed.wiki/metanoietic-consciousness.html
 
+## Ward-Whitehead Coincidence
+
+John: Without wanting to swell anyone's head, I think it's truly remarkable that you were able to find this level of generality from the particular occasions we each only have. I'd like to hear more from Thompson about what he found interesting about it. I had completely forgotten that Kent mentions EPISODES in the XP book. Since Thompson mentioned it the other day, I do now remember reading that in the XP book many years ago, and not knowing what EPISODES was, and also not following up on finding out. It's only because I was looking for things that corresponded to Whitehead's structure of actual occasions that your sentences in EPISODES stood out for me. I did the same thing with Whitehead: I've been peering into it for many years, feeling that there was something I should be able to benefit from, but not really understanding what it is, so unable to spend the time and energy without also having an expectation of benefiting from such expenditure.
+
+Ward: I edited the quote by adding a space. This showed up in the journal as the last edit. I then shift-hovered over my edit which also highlighted his edits to the same item. There was one, from 12 months ago.
+I think the Ward-Whitehead coincidence occurred strictly because we both existed in the same world.
+From now on this will be referred to as the Ward-Whitehead-Bywater coincidence.
+(giving myself top billing)
+
+John: Exactly. Whitehead actually describes this. He calls his work "speculative philosophy", he's just guessing, and doesn't expect to reach a final statement on things.
+Hahaha
+
+Regarding speculative philosophy, and the "existing in the same world" thing, Whitehead wrote in the opening pages of his masterpiece Process and Reality:
+
+"Philosophers can never hope finally to formulate these metaphysical
+first principles. Weakness of insight and deficiencies of language stand in
+the way inexorably. Words and phrases must be stretched towards a gen-
+erality foreign to their ordinary usage; and however such elements of lan-
+guage be stabilized as technicalities, they remain metaphors mutely ap-
+pealing for an imaginative leap.
+
+"There is no first principle which is in itself unknowable, not to be cap-
+tured by a flash of insight. But, putting aside the difficulties of language,
+deficiency in imaginative penetration forbids progress in any form other
+that that of an asymptotic approach to a scheme of principles, only de-
+finable in terms of the ideal which they should satisfy.
+
+"The difficulty has its seat in the empirical side of philosophy. Our datum
+is the actual world, including ourselves; and this actual world spreads itself
+for observation in the guise of the topic of our immediate experience. The
+elucidation of immediate experience is the sole justification for any
+thought; and the starting-point for thought is the analytic observation of
+components of this experience. But we are not conscious of any clear-cut
+complete analysis of immediate experience, in terms of the various details
+which comprise its definiteness. We habitually observe by the method of
+difference. Sometimes we see an elephant, and sometimes we do not."
+
 ## Discussion about Dennett
 
 "The problem, obvious to anyone who has studied Whitehead’s work closely, is that Dennett’s approach to the evolutionary emergence of religion presupposes what Whitehead’s philosophy of organism so passionately protests against: the bifurcation of nature."
