@@ -50,11 +50,27 @@ I could have called the paper "A Method for the Incremental Discovery and Mainte
 
 http://found.ward.bay.wiki.org/view/episodes-in-context
 
-John:
+John: Ward, these comments are so generous, I'm totally blown away. Thanks so much
 
-Ward, these comments are so generous, I'm totally blown away. Thanks so much
+Ward: Thompson, listen up.
 
+## Comments from Thompson Morrison
 
+Thompson: I am here and listening...
+
+I stumbled on EPISODES as I sought to understand the essence of agile. This exploration was important to understand what I was seeing as I was not only introducing the practices of agile to educators and students but, more importantly, the mindset.
+
+Something that was magical, a joy that I was seeing in the eyes of teachers and their students.
+
+And there it was, that eureka moment in which a new understanding manifests. Something Ward called in that paper a "climax". A moment that tied directly back to the discovery of the "ultimate boon" described in the Heroe's Journey, the great monomyth described by Joseph Campbell.
+
+There it was – but was it seen by others? So I started exploring the histories of the Agile Movement to see if this critical moment in the development of the agile mindset was recognized and celebrated. But I couldn't find any mention of it, with the exception of a brief reference in the bibliography of Kent 's book "Extreme Programming Explained":
+
+"Many of the ideas of XP first found expression in Episodes."
+
+I am continuing to dig deeper into this moment: an interruption where one sits in the silence of unknowing. There is, indeed, a mystery in this moment, one that I sense illuminates a new understanding about how we make meaning. It is here that concepts from Friston merge with those of Taoism, pointing the way to a new consciousness glimpsed by Borges, Kay and yes, Ward – one that perhaps allows us to understand Alexander's 15 properties in a new way.
+
+More thoughts here: http://wellspring.fed.wiki/metanoietic-consciousness.html
 
 ## Discussion about Dennett
 
