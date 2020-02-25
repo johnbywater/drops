@@ -1,5 +1,7 @@
 # Conversation with DH
 
+[edited discussion]
+
 John: Just wondered what you think about this:
 https://github.com/johnbywater/drops
 
@@ -62,8 +64,6 @@ So it's not so much that nobody can ship working code.
 It's that if we can go back, and realise what Whitehead, and Alexander, and Ward understood, then we'd do a lot better.
 
 And if we don't use our intuition, to make sense of things that don't actually make sense, then we can't in fact get very much done at all.
-
-
 
 DH: My thinking about software lately has been mostly attempting to follow through the consequences of conway's law. That the people and the quality of communication and relationships between people are determinant in the quality of the software. Also Naur's "Programming as theory building" seems to corroborate this.
 
