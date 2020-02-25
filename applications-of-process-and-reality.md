@@ -1,38 +1,38 @@
-## Applications
+# Applications
 
-### Pattern language
+## Pattern language
 
 Christopher Alexander's pattern language is already event-oriented. To write a design pattern is to describe an actual occasion of design, and also the events to which the actualisation of that design will contribute determination.
 
-### Software architecture and design of systems
+## Software architecture and design of systems
 
 Event-sourcing, event-driven architecture, event-storming, event-modelling (if that's an actually different thing). But also the use of atomic transactions in DDD domain layer to constrain the aggregate to go through a series of changes, hence giving have personal order (even if it isn't actually event-sourced).
 
 But anything which touches on "atomicity" or "immutability" is a design of actual occasions. So we can find actual occasions in the operation of relational CRUD models. And we can find actual occasions in the updating of user interface models by replacing immutable objects with new immutable objects in frameworks such as React.
 
-### Software development approaches and teams
+## Software development approaches and teams
 
 Variously defined in terms of events, with Scrum as an example of explicitly defined events, and ESPISODES as a great example which shares a lot of the feelings of Whitehead's speculative scheme. XP is a great example of contributing determination to events with its little descriptions of human activity and its etudes and so on.
 
 I wanted to write about applying Whitehead's scheme to software development (but didn't do very much about it yet): https://github.com/johnbywater/the-eventual-approach
 
-### Human process (users' working process)
+## Human process (users' working process)
 
 The output-vs-outcome consideration points towards considering the user process as an eventuating society. Team building vs. the fact that there is no togetherness except in the becoming of an actual occasion.
 
-### Physics
+## Physics
 
 Whitehead's scheme was developed after quantum physics was discovered, and is compatible with it. Penrose shows that quantum events occur instantaneously across space time (the electron hitting a detector at one point immediately means that it cannot hit a detector at any other point), and provides a mathematical account with the notion of cohomology (the Penrose triangle was just a visualisation of that). Some recent physics papers admit to the prevalence of the substance-quality metaphysics, and suggest the life of a physicist would be made easier by adopting Whitehead's scheme.
 
-### Biology
+## Biology
 
 Early growth and development biologists, Waddington and Brian Goodwin, were influenced by Whitehead's scheme.
 
-### Computation
+## Computation
 
 For example, the halting problem is essentially a question of whether a process reaches a settlement or not. Turing read Whitehead when he was a boy.
 
-### Misc
+## Misc
 
 A few notables influenced by Whitehead.
 
