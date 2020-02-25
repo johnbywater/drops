@@ -49,6 +49,9 @@ Whitehead invented the word 'creativity', we have this word in our language beca
 
 "'Creativity' is the universal of universals characterizing ultimate matter of fact. It is that ultimate principle by which the many, which are the universe disjunctively, become the one actual occasion, which is the universe conjunctively. It lies in the nature of things that the many enter into complex unity."
 
+(Note: English mathematician and philosopher Alfred North Whitehead coined the term creativity in 1927 while delivering the Gifford Lectures at the University of Edinburgh. Almost immediately, it became the word of choice in literature, the arts, and science. In fact, the term went into wide use so quickly, we have forgotten its recent origins in the twentieth century. Copied from: https://thomascotterill.wordpress.com/2012/09/29/popular-creativity-theories/)
+
+
 **Datum**
 
 The content of the experience of an actual occasion. Subjective objectifications.
@@ -75,7 +78,7 @@ Private facts, public facts, stubborn facts....
 
 **Feeling**
 
-A feeling is a process of appropriation that results in the subjective objectification of other actual occasions.
+A feeling is a process of appropriation that results in the subjective objectification of other actual occasions as a unified feeling (the feelings that comprise an actual occasion).
 
 Feelings feel feelings that have already been felt.
 
