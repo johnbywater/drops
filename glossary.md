@@ -41,6 +41,10 @@ Non-social nexus.
 
 High grade of mentality.
 
+**Corpuscular society**
+
+"A nexus which (i) enjoys social order, and (ii) is analysable into strands of enduring objects may be termed a 'corpuscular society'." 
+
 **Creativity**
 
 The universal of univerals. Without character. Amoral. Replacement for Aristotle's substance.
