@@ -1,3 +1,7 @@
+# Conversation with VV
+
+1 March 2020
+
 VV: Thanks for the summary and background. I thing the "actual occurrences" as events/entities are finally sinking in. What did it was you indicating that the aggregate is the nexis of actual occurrences and that they have "personal order." I think that I need to see why all this matters in terms of why would we choose to change long-standing definitions and patterns by reintroducing from 100+ years ago. I think I mentioned this before, and it's not that I disagree. There is value in this pov, but if we use a lot of our own energy to teach people something different and they use a lot of their energy to change their thinking, vocabulary, and approach to development, will it be better that the status quo?
 
 John: You ask a good question.

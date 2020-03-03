@@ -1,5 +1,7 @@
 # Conversation with Ward
 
+February 2020
+
 Discussed with Ward a few times. He made some notes on his wiki here:
 
 http://found.ward.bay.wiki.org/view/episodes-in-context

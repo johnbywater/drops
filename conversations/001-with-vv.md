@@ -1,6 +1,6 @@
 # Conversation with VV
 
-## Twitter DMs
+February 2020
 
 VV: If Whitehead is groundbreaking, albeit 100+ yo, resurfacing it may be like finding the treasures in the Titanic and bringing them back to civilization. However, if that can be done it must be by means of simple words, not going beyond the 70th percentile, or even less.
 

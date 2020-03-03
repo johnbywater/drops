@@ -1,5 +1,7 @@
 # Conversation with Mike
 
+1 March 2020
+
 John: Regarding the "hitchhikers guide to the galaxy" (and finding an adequate modern-world answer to the question of life, the universe, and everything... beyond the number 42).....
 
 I just read two book reviews of a book called "Nervous States: How Feeling Took Over the World" by William Davies.

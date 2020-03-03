@@ -1,6 +1,6 @@
 # Conversation with RWB
 
-## Twitter DMs
+February 2020
 
 John: How are you? Since we chatted about Whitehead several times, I thought you might be interested to see that I finally gathered my thoughts about everything, and have started putting them together in a written form. Since I had to pick a name for the GitHub repository, I settled on the name DROPS. The word was picked out from Whitehead's phrase "drops of experience". 
 

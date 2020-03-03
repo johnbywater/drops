@@ -1,4 +1,6 @@
-# Conversation with Ward
+# Conversation with Ward, Thompson, and Mike
+
+1 March 2020
 
 Ward: Whitehead's Process & Reality now in the federation: http://anw.fed.wiki/
 
