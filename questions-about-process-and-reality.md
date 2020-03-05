@@ -66,3 +66,23 @@ So the first stage, the “many” or the disjunctive diversity; second stage, t
 Hence, fifth [stage] then, from which the actual occasion is made – once we say that we must not confuse the elements of the actual occasion and the conditions of the actual occasion, I would say the requisites of the actual occasion. The requisites of the actual occasion are: the disjunctive diversity, the infinite, limitless vibratory series, the convergent series. These are the successive requisites of the actual occasion, that is, of the conjunction. So you have four terms: 1) the many, 2) the infinite, limitless series, 3) the convergence of series, that is, these are evidently not the same series that become convergent, these are new series; 4) the conjunction of series which yield the actual occasion; 5) what are the elements to be, and not the requisites, the elements of the actual occasion, that is, what is an actual occasion made of? Answer: it is made of prehensions. But what is a prehension made of, what are the elements of the prehension, what are the component elements and not the requisite conditions? So why does this matter to me?
 
 Is this very clear as a schema? Realize that this refers to all kinds of things in math and in physics, it correspond to each person’s taste, you don’t strictly need to know anything to understand, or at least to feel it. As for “feeling” as Whitehead says, you can even see this world being formed; the “many” is a kind of soup, it’s the great soup, it’s what the cosmologists call “the pre-biotic soup,” the disjointed members, what Empedocles already called the membrae disjunctae. That links so well with everything that is important in philosophy. It’s the river that carries along the membrae disjunctae, the scattered members, an arm then a nose, it’s chaos. But we must assume that it’s not a nose, it’s an electron of a nose. So that in this soup are traced limitless series without convergence. It’s so close to Leibniz. And then each one of these limitless series without convergence has a characteristic, and the characteristics of series enter themselves into convergent series. When they have entered into convergent series, then conjunctions are produced, like lumps in your soup. It’s an actual occasion precipitated by a lump; wow! An occasion, and you will notice that your lump is composed of prehensions. Well, is this clear, if not I will start it all over again! I am insisting on this; in my view, such a genesis escape the danger indicated by Isabelle, because the actual occasion is not at all presented as a passive result. Each time there is activity and retro-activity. The convergent series react on infinite series without convergence, the conjunctions react on the convergent series. At each level, there is emergence of a new type of activity. The series is an activity, the convergence of series is another activity, the conjunction another activity, etc… So there, she granted me the stage of “the many” or of the disjunctive diversity. We pass on to the second stage. Isabelle, when you wrote “States and Process”, did you already know Whitehead? Yes! My question is very simple. We don’t know very well what happened in the disjunctive diversity, but we grant ourselves vibrations. There is the formation of vibrations. Where do they come from, vibrations? On this point, I need Isabelle less. Can I say that these vibration form infinite series that convergent toward no limit, and it’s the case of a vibration in relation to its harmonics, assuming an infinity of harmonics within chaos? Can I say that, or else is it a physically stupid proposition?
+
+## What did Stengers say about all of this in her book?
+
+* see Thinking With Whitehead
+
+## Relation to Russellian Monism
+
+What's the difference between the system in Process and Reality and "Russellian Monism" (apart from the use of "consciousness" rather than "mentality", views about "consciousness and its place in nature" rather than two poles in each actual occasion)?
+
+* "The Analysis of Matter", Russell 1927
+* https://plato.stanford.edu/entries/russellian-monism/
+* https://plato.stanford.edu/entries/neutral-monism/
+
+* William James 
+* David Chalmers
+
+* James Williams
+* Steven Shaviro
+* Phillip Goff
+
