@@ -33,6 +33,10 @@ Beings result from their becoming something.
 
 "Its 'being' is constituted by its 'becoming'. This is the 'principle of process'."
 
+**Change**
+
+The fundamental meaning of the notion of 'change' is 'the difference between actual occasions comprised in some determinate event.'
+
 **Chaos**
 
 Non-social nexus.
