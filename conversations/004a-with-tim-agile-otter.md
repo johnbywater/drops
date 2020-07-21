@@ -1,0 +1,1 @@
+Todo: Get the tweets that start with discussion of events (Jim Coplien liked), that went on, and into Tim mentioning the guy who took over Whitehead's job and who defined "the creative process" with four stages)
