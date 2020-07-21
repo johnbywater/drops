@@ -75,6 +75,7 @@ limiting type of an event with only one member."*
   - Drops of governance
   - Drops of democracy
   - Drops of justice
+  - Drops of journalism  
   - Drops of art
   - Drops of science
   - Drops of philosophy
