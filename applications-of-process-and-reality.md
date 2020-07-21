@@ -1,8 +1,13 @@
 # Applications
 
-## Pattern language
+## Architecture of built environment - Pattern language
 
 Christopher Alexander's pattern language is already event-oriented. To write a design pattern is to describe an actual occasion of design, and also the events to which the actualisation of that design will contribute determination.
+
+## Garden design
+
+Charles Jencks
+
 
 ## Software architecture and design of systems
 
@@ -32,13 +37,36 @@ Early growth and development biologists, Waddington and Brian Goodwin, were infl
 
 For example, the halting problem is essentially a question of whether a process reaches a settlement or not. Turing read Whitehead when he was a boy.
 
+## Poetry
+
+* Gertrude Stein
+* Wallace Stevens
+* Charles Olson ("tried to translated Process and Reality into poetry")
+
+# Psychology and psychotherapy
+
+* Carl Rogers
+** Laura Rice
+** Eugene Gendlin
+** Marge Felder
+** Marshall Rosenberg (Nonviolent Communication)
+
+(Carl Rogers and Whitehead also discussed in: https://www.academia.edu/8160088/)
+(Also Notes from Lick It! Fix Her Appetite Switch, by Anne Katherine)
+
+Todo: The "personal responsibility" notion of Carl Rogers seems to have something to do with "responsibility driven development" from RBW?
+
+Rosenberg identified "responsibility" as "ability to respond", so you can only be responsible for things you can
+respond to. So being responsible for how you feel is a matter of find a way to chose how you feel about things.
+
 ## Misc
 
-A few notables influenced by Whitehead.
+A few other notables influenced by Whitehead.
 
 * Alan Turing
-* Gertrude Stein
 * Martin Luther King
+* Herbert Marcuse
+* Donna Harraway
 
 A few people who wrote about Whitehead:
 
@@ -46,6 +74,7 @@ A few people who wrote about Whitehead:
 * Isabelle Stengers
 * James Williams
 * Bruno Latour
+* Judith Butler
 
 
 Why isn't Alfred North Whitehead more popular if he's so great? Shortly after Whitehead, there was a turn away from metaphysics to analytic philosophy and language led by people like Bertrand Russell and Ludwig Wittgenstein. Russell was the student of Whitehead, and Wittgenstein was the student of Russell. Within the institutions concerned with analytic philosophy, Whitehead's kind of work was considered irrelevant. Yet, even at the edges of mathematics and logic there are only appeals to intuition, and that's what Whitehead appeals to in Process and Reality ("The analysis of the components abstracts from the concrescence. The sole appeal is to intuition."). Perhaps things would have been different were Whitehead to have shared his notes with Russell?
